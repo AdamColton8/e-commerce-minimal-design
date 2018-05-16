@@ -10,6 +10,3 @@ $("#hide").click(function(){
     $(".filter").slideToggle("slow");
 
 });
-// $( "#book" ).slideToggle( "slow", function() {
-//     // Animation complete.
-// });
